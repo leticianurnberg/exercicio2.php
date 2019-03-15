@@ -4,13 +4,13 @@ print " Digite seu número de dias:";
 $days = (int) fgets (STDIN);
 
 print "Digite seu número de horas:";
-$hrs = (int) fgets (STIDN);
+$hrs = (int) fgets (STDIN);
 
 print "Digite seu número de minutos:";
-$min= (int) fgtes (STDIN);
+$min= (int) fgets (STDIN);
 
 print "Digite seu número de segundos";
-$seg = (int) fgtes (STDIN);
+$seg = (int) fgets (STDIN);
 
 $dias= $days*86400;
 $horas= $hrs*3600;

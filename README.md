@@ -9,7 +9,7 @@ $hrs = (int) fgets (STIDN);
 print "Digite seu número de minutos:";
 $min= (int) fgtes (STDIN);
 
-print "Digite seu número de segundos":
+print "Digite seu número de segundos";
 $seg = (int) fgtes (STDIN);
 
 $dias= $days*86400;
